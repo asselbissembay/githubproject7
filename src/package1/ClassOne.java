@@ -6,5 +6,6 @@ public class ClassOne {
         System.out.println("Here is the master branch");
         System.out.println("Hello World");
         System.out.println("Hello today");
+        System.out.println("Hi everyone");
     }
 }
