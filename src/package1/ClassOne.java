@@ -9,5 +9,6 @@ public class ClassOne {
         System.out.println("Hi everyone");
         System.out.println("Here is a new branch");
         System.out.println("Here we have a different line");
+        System.out.println("conflicting line");
     }
 }
